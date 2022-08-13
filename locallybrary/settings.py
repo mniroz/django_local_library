@@ -31,7 +31,7 @@ DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 
 ALLOWED_HOSTS = [
     '0.0.0.0',
-    'https://serene-depths-85219.herokuapp.com/', # your herokuapp url
+    'https://serene-depths-85219.herokuapp.com', # your herokuapp url
     '127.0.0.1'
 ]
 
